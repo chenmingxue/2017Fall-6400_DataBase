@@ -1,0 +1,48 @@
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 99
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 102
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 115
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 99
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 102
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 115
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 99
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 102
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 115
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 99
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 102
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 115
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 99
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 102
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 115
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 99
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 102
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 115
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 99
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 102
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 115
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 99
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 102
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:58:02 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 115
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 113
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 113
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 113
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 113
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 113
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 113
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 113
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: pick_up_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 113
+[27-Nov-2017 23:59:11 America/Los_Angeles] PHP Notice:  Undefined index: drop_off_clerk in C:\Bitnami\wampstack-7.1.10-1\apache2\htdocs\Test1\view_profile_customer.php on line 114
